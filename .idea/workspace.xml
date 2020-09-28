@@ -16,6 +16,9 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="ExportToHTMLSettings">
+    <option name="OUTPUT_DIRECTORY" value="$PROJECT_DIR$/../online-school\exportToHTML" />
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -35,6 +38,7 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RunManager" selected="Application.Digits">
     <configuration name="ArrayFunTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -81,35 +85,20 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="934" y="339" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1587179856871">
+    <state x="425" y="580" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog" timestamp="1589571462649">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state x="934" y="339" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1587179856871" />
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom" timestamp="1587181695961">
+    <state x="425" y="580" key="#com.intellij.ide.actions.ChooseComponentsToExportDialog/0.40.2560.1400@0.40.2560.1400" timestamp="1589571462649" />
+    <state x="176" y="388" key="SettingsEditor" timestamp="1589571351086">
       <screen x="0" y="40" width="2560" height="1400" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.bottom/0.40.2560.1400@0.40.2560.1400" timestamp="1587181695961" />
-    <state width="1340" height="266" key="GridCell.Tab.0.center" timestamp="1587181695961">
-      <screen x="0" y="40" width="2560" height="1400" />
+    <state x="176" y="388" key="SettingsEditor/0.40.2560.1400@0.40.2560.1400" timestamp="1589571351086" />
+    <state x="64" y="364" key="new project wizard" timestamp="1595982332387">
+      <screen x="0" y="30" width="2560" height="1410" />
     </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.center/0.40.2560.1400@0.40.2560.1400" timestamp="1587181695961" />
-    <state width="1340" height="266" key="GridCell.Tab.0.left" timestamp="1587181695961">
-      <screen x="0" y="40" width="2560" height="1400" />
-    </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.left/0.40.2560.1400@0.40.2560.1400" timestamp="1587181695961" />
-    <state width="1340" height="266" key="GridCell.Tab.0.right" timestamp="1587181695961">
-      <screen x="0" y="40" width="2560" height="1400" />
-    </state>
-    <state width="1340" height="266" key="GridCell.Tab.0.right/0.40.2560.1400@0.40.2560.1400" timestamp="1587181695961" />
-    <state x="1289" y="598" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587181718079">
-      <screen x="0" y="40" width="2560" height="1400" />
-    </state>
-    <state x="1289" y="598" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.40.2560.1400@0.40.2560.1400" timestamp="1587181718079" />
-    <state x="662" y="360" key="new project wizard" timestamp="1587177846405">
-      <screen x="0" y="40" width="2560" height="1400" />
-    </state>
-    <state x="662" y="360" key="new project wizard/0.40.2560.1400@0.40.2560.1400" timestamp="1587177846405" />
+    <state x="64" y="364" key="new project wizard/0.30.2560.1410/2560.0.1858.1080@0.30.2560.1410" timestamp="1595982332387" />
   </component>
 </project>
